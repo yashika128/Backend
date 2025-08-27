@@ -20,13 +20,13 @@ These exercises reinforce Node.js fundamentals and give you concrete, runnable e
 
 ##  File Overview
 
-| File Name               | Purpose |
+| File Name (Lab 1)              | Purpose |
 |-------------------------|---------|
-| ` Experiment 1 `      | : Exporting an object from a module. |
-| ` Experiment 2 `      |  Nested object and functions with `exports`. |
-| ` Experiment 3 `      | Basic HTTP server with request-response. |
-| ` Experiment 4 `      |  Read file asynchronously with error handling. |
-| ` Experiment 5 `      |Serving a text file over HTTP with `fs` and `http`. |
+| ` Prog 1 `      | : Exporting an object from a module. |
+| ` Prog 2 `      |  Nested object and functions with `exports`. |
+| ` Prog 3 `      | Basic HTTP server with request-response. |
+| ` Prog 4 `      |  Read file asynchronously with error handling. |
+| ` Prog 5 `      |Serving a text file over HTTP with `fs` and `http`. |
 
 
 ---
