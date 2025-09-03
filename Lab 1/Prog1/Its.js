@@ -1,6 +1,6 @@
 // A simple object 
 const studentDetails = {
-  name: "Yashika Garg",
+  name: "Yashika garg ",
   course: "B.Tech CSE",
   year: 3
 };
