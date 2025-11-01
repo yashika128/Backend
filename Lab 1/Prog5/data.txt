@@ -1,0 +1,2 @@
+Hello from Node.js server!
+This is data.txt content.

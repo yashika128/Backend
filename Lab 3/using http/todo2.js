@@ -36,4 +36,4 @@ server.listen(3000, () => {
   console.log("Server running on http://localhost:3000");
 });
 
-//http://localhost:3000/todos(we have to write this on browser in order to see the to do list)
+//http://localhost:3000/todos (we have to write this on browser in order to see the to do list)
